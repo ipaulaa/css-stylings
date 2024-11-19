@@ -1,12 +1,12 @@
 h1 {
-  font-size:;
-  font-family:;
-  padding:;
-  margin:;
-  font-weight:;
-  text-decoration:;
-  color:;
-  background-color:;
+  font-size: 24px;
+  font-family: "BioRhyme", serif;
+  padding: 20px 30px;
+  margin: 30px;
+  font-weight: 700;
+  text-decoration: double underline 2px;
+  color: #f15994;
+  background-color: #4d3383;
 }
 
 h2 {
