@@ -20,12 +20,12 @@ h2 {
 }
 
 p {
-  font-family:;
-  font-size:;
-  padding:;
-  margin:;
-  color:;
-  background-color:;
+  font-family: "Playfair Display", serif;
+  font-size: 18px;
+  padding: 20px 30px;
+  margin: 0 30px;
+  color: #362459;
+  background-color: #eae1fc;
 }
 
 .logo {
