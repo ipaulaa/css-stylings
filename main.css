@@ -10,13 +10,13 @@ h1 {
 }
 
 h2 {
-  font-size:;
-  font-family:;
-  padding:;
-  margin:;
-  font-weight:;
-  color:;
-  background-color:;
+  font-size: 32px;
+  font-family: "Dosis", sans-serif;
+  padding: 30px;
+  margin: 30px;
+  font-weight: 800;
+  color: #4d3383;
+  background-color: #f15994;
 }
 
 p {
