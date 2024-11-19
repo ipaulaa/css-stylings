@@ -8,10 +8,10 @@ images that CSS has to offer.
 
 ## Phase 1: CSS Styles
 
-Once you have downloaded the starter, open the __index.html__ file in your
+Once you have downloaded the starter, open the **index.html** file in your
 browser.
 
-Then navigate to the __main.css__ file and start experimenting with the
+Then navigate to the **main.css** file and start experimenting with the
 different CSS stylings. You can change the text in multiple aspects. Start
 changing the styles and save and refresh your page to see the changes.
 
