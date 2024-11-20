@@ -30,8 +30,8 @@ p {
 
 .logo {
   background-size: cover;
-  background-image: url();
-  background-color:;
-  height:;
-  width:;
+  background-image: url(https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png);
+  background-color: #ef4444;
+  height: 200px;
+  width: 200px;
 }
